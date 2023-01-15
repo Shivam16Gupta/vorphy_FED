@@ -1,0 +1,41 @@
+.mt1,.mt2{
+    display: inline;
+}
+.mt1{
+    height:400px;
+    width:300px;
+}
+.mt2{
+    height:250px;
+    margin-top: 50px;
+    margin-left: -70px;
+}
+.about{
+    display:flex;
+    flex-direction:row;
+    margin-left:200px;
+    margin-right:200px;
+    margin-top:100px;
+    margin-bottom:100px;
+    font-family: 'Poppins';
+}
+.imgs{
+    display: flex;
+    flex-direction:row;
+}
+.content{
+    display: flex;
+    flex-direction:column;
+    /* width:50%; */
+text-align: left;
+margin-left: 100px;
+}
+.heading{
+    font-size:40px;
+    font-weight: 800;
+}
+.topic{
+    font-size:40px;
+    font-weight: 800;
+    color: red;
+}
