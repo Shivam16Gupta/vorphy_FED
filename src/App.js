@@ -5,6 +5,7 @@ import AboutUs from './components/AboutUs';
 import ChooseUs from './components/ChooseUs';
 import Future from './components/Future';
 import Promotion from './components/Promotion';
+import Footer from './components/Footer';
 function App() {
   return (
     <div className="App">
@@ -14,6 +15,7 @@ function App() {
       <ChooseUs/>
       <Future/>
       <Promotion/>
+      <Footer/>
     </div>
   );
 }
