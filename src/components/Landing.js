@@ -14,7 +14,7 @@ function Landing() {
             <div className="slide">
               <div className="slide-number">
                 <p className="para1">
-                  <h1 style={{ color: "#E21F3A" }}>VORPHY</h1>
+                  <h1 className="org" style={{ color: "#E21F3A" }}>VORPHY</h1>
                   Vorphy is a simple, engaging, and interactive learning App for
                   kids studying in Kindergarten to K-12, focusing on STEM-based
                   learning using Extended Reality and Mixed reality. It works on
