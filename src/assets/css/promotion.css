@@ -1,0 +1,33 @@
+.promo{
+    font-family: 'Poppins';
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+   margin-left:100px;
+   margin-right:100px;
+   margin-top:30px;
+   /* width:900px;
+   height:700px; */
+}
+.appdesc{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    width: 500px;
+    height: 600px;
+    text-align: left;
+}
+.appdesc{
+    padding: 20px;
+}
+.mock{
+    width: 500px;
+    height: 600px;
+}
+@media only screen and (max-width: 768px){
+    .promo{
+        flex-direction: column;
+    }
+}
