@@ -9,7 +9,7 @@ function ChooseUs() {
   return (
     <div>
       <div className="choose">
-        <h1>Why Choose Us?</h1>
+        <h1 style={{ color: "#E21F3A" ,textAlign: "center" }}>Why Choose Us?</h1>
         <div className="offers">
             <div className="intro">
           <h1 style={{ color: "#E21F3A" }}>Conceptual Learning</h1>
